@@ -22,7 +22,7 @@ client.on('ready', () => {
     console.log(`Logged in as `);
     console.log(`in ${client.guilds.size} servers `)
     console.log(`[Thereaper] ${client.users.size}`)
-    client.user.setStatus("offline")
+    client.user.setStatus("dnd")
 });
 //by ! - Thereaper'
 const prefix = "4"
