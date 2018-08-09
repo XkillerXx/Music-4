@@ -404,7 +404,7 @@ function play(guild, song) {
 
 client.on("message", message => {
 
- if (message.content === `${prefix}help`) {
+ if (message.content === 4help`) {
 
   const embed = new Discord.RichEmbed() //by ! - Thereaper'
 
