@@ -6,6 +6,8 @@ const queue = new Map();
 
 const client = new Discord.Client();
 
+const Discord = require("discord.js");
+
 /*
 
 البكجآت
